@@ -1,4 +1,4 @@
-# MFG598FINAL_prroject2025-spring-25 by Prof. BINIL STARLY
+# MFG598FINAL_project2025-spring-25 by Prof. BINIL STARLY
 I am Anusha Chatterjee. This is my MFG 598 Final Project
 # AI-Based Traffic Congestion Prediction & Visualisation
 
