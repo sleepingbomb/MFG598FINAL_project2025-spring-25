@@ -73,10 +73,10 @@ jupyter notebook Traffic_Congestion_prediction.ipynb
 | Avg. travel-time reduction vs. base | **17 %**         |
 
 ## Future Work
-Live data ingestion (loop detectors, CCTV)
-Transformer model for multi-step forecasting
-Bokeh Server + FastAPI deployment
-Dockerfile for push-button edge installation
+- Live data ingestion (loop detectors, CCTV)
+- Transformer model for multi-step forecasting
+- Bokeh Server + FastAPI deployment
+- Dockerfile for push-button edge installation
 
 ## References
 1. Yoon, J., Jarrett, D., & van der Schaar, M. (2019).
