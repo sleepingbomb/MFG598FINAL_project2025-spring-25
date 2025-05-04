@@ -89,7 +89,8 @@ https://docs.bokeh.org/
 
 4. NetworkX 3.3 – Complex-Network Analysis in Python.
 https://networkx.org/
-##License
+
+## License
 This project is licensed under the MIT License—free for personal and commercial use.
 Please ⭐ the repo if you find it helpful!
 
