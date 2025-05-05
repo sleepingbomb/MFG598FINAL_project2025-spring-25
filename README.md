@@ -51,7 +51,7 @@ flowchart TD
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-user>/traffic-congestion-ai.git
+git clone https://github.com/sleepingbomb/traffic-congestion-ai.git
 cd traffic-congestion-ai
 
 # 2. Create environment
