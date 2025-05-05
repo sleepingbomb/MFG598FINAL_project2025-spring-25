@@ -51,8 +51,8 @@ flowchart TD
 
 ```bash
 # 1. Clone
-git clone https://github.com/sleepingbomb/traffic-congestion-ai.git
-cd traffic-congestion-ai
+git clone [https://github.com/sleepingbomb/MFG598FINAL_project2025-spring-25](https://github.com/sleepingbomb/MFG598FINAL_project2025-spring-25)
+    cd MFG598FINAL_project2025-spring-25
 
 # 2. Create environment
 python -m venv .venv
